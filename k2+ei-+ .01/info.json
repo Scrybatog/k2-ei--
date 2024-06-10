@@ -1,0 +1,18 @@
+{
+    "name": "ei+k2-+",
+    "version": "0.0.1",
+    "title": "ei+k2-+",
+    "author": "Scrybatog",
+    "factorio_version": "1.1",
+    "description": "This mod overhauls the current k2+ei experience by shifting it more towards k2",
+    "dependencies": [
+        "base >= 1.0.0",
+        "Krastorio2",
+        "exotic-industries",
+        "?advanced-centrifuge",
+        "?ch-concentrated-solar",
+	    "?FilterInsertersBegone",
+        "?Krastorio2-more-locomotives"
+
+    ]
+}
