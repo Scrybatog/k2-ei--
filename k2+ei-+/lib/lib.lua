@@ -1,3 +1,5 @@
+local sa_lib = {}
+
 function ei_lib.set_properties(obj)
     if not (obj and obj.name and obj.type) then
         log(serpent.log({["Invalid object:"] = obj}))

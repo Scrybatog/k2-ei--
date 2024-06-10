@@ -1,4 +1,4 @@
-ei_lib = require("lib/lib")
+sa_lib = require("lib/lib")
 
 local EI_CHANGES = {
     ["item"] = {
